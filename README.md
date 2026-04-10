@@ -1,3 +1,6 @@
+### Url 
+   https://imamankrsingh.github.io/Gallery/
+
 # Image Gallery
 
 This is a Simple Image Gallery Project built using HTML and CSS.
